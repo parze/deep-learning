@@ -1,0 +1,12 @@
+name: deep-learning
+channels:
+- anaconda
+- defaults
+dependencies:
+- python=3.5.4
+- jupyter=1.0.0
+- nb_conda=2.2*
+
+- imageio=2.3.0
+- scikit-learn
+- pip:
